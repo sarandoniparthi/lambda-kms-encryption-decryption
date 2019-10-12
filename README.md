@@ -39,3 +39,8 @@ serverless invoke --function kmsEncryptionDecrytion
 
 #Then we can remove the lambda using below command
 serverless remove
+
+![image](https://user-images.githubusercontent.com/26525621/66699453-9bbcbb00-ed04-11e9-8b63-082e4549b6d7.png)
+
+
+
