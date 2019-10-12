@@ -3,7 +3,9 @@ encryption and decryption of environment variables with aws kms in lambda
 
 #In this function we are using serverless framework in aws lambda functions
 https://serverless.com/framework/docs/providers/aws/cli-reference/create/
+
 https://www.npmjs.com/package/serverless-plugin-encrypted 
+
 serverless create --template aws-nodejs 
 
 #above command will create a nodejs lambda function 
