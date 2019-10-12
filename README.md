@@ -29,8 +29,11 @@ serverless decrypt
 
 ![image](https://user-images.githubusercontent.com/26525621/66699354-c3f7ea00-ed03-11e9-8b27-70018bb17eaf.png)
 
-#deploy the function with serverless command
+#Deploy the function with serverless command
 serverless deploy
+#If you check in lambda function in aws console our environment variables are encrypted
+![image](https://user-images.githubusercontent.com/26525621/66699494-07068d00-ed05-11e9-9765-056123daa25b.png)
+
 #Then we can test the app locally 
 serverless invoke --function kmsEncryptionDecrytion
 
